@@ -1,0 +1,22 @@
+{
+  "vehicle": {
+    "bus_voltage_v": 14,
+    "alternator_rated_a": 80,
+    "speed_factor": 0.4,
+    "thermal_factor": 0.85,
+    "other_loads_w": 460,
+    "requested_charge_a": 6,
+    "design_reserve_fraction": 0.15,
+    "speed_kmh": 0
+  },
+  "audio": {
+    "electronics_w": 25,
+    "speaker_average_w": 10,
+    "amplifier_efficiency": 0.55
+  },
+  "old_audio": {
+    "electronics_w": 8,
+    "speaker_average_w": 10,
+    "amplifier_efficiency": 0.55
+  }
+}
